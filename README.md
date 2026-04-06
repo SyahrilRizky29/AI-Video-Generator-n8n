@@ -1,6 +1,3 @@
-# AI-Video-Generator-n8n
-Workflow n8n otomatis untuk pembuatan video AI (Image-to-Video) secara asinkron dengan integrasi Google Drive. Dibangun untuk efisiensi produksi konten pemasaran digital.
-
 # 🎬 AI Video Generator Automation with n8n
 
 Proyek ini adalah alur kerja (workflow) otomatisasi menggunakan n8n untuk mengubah gambar statis menjadi video pendek secara cerdas melalui integrasi API AI. Sistem ini menangani proses pembuatan video secara asinkron, mulai dari pengisian formulir hingga penyimpanan otomatis ke Google Drive.
